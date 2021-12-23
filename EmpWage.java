@@ -13,7 +13,7 @@ public class EmpWage {
 		else
 		    empHour = 0;
 	empWages = empHour * EMP_RATE_PER_HOUR;
-	System.out.println("employee wage is " + empWages);
+	System.out.println("daily employee wage is " + empWages);
 		
 	}
 }
